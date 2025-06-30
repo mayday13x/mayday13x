@@ -1,6 +1,6 @@
 # Miguel Silva
 
-Backend Development | Cybersecurity = TRUE 😊👨🏼‍💻
+Backend Development && Cybersecurity = TRUE 😊👨🏼‍💻
 
 <section>
   <p>I am always around searching for bugs in real applications!</p>
